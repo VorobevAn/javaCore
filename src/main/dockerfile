@@ -1,0 +1,5 @@
+from bellsoft/liberica-openjdk-alpine:17
+copy ./java ./src
+run  mkdir ./out
+run  javac -sourcepath ./java -d out src/org/seminar1/view/Main.java
+cmd  java -classpath ./out org.seminar1.view.Main
