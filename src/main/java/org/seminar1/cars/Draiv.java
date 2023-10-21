@@ -1,6 +1,4 @@
-package org.seminar1.car;
-
-import org.seminar1.car.Car;
+package org.seminar1.cars;
 
 public class Draiv {
 

@@ -1,4 +1,4 @@
-package org.seminar1.car;
+package org.seminar1.cars;
 
 /**
  * Конструктор для создания экземпляра автомобиля.

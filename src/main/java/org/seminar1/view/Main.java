@@ -1,7 +1,7 @@
 package org.seminar1.view;
 
-import org.seminar1.car.Car;
-import org.seminar1.car.Draiv;
+import org.seminar1.cars.Car;
+import org.seminar1.cars.Draiv;
 
 public class Main {
     public static void main(String[] args) {
